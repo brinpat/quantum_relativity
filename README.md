@@ -67,7 +67,7 @@ Outputs
 ## Orbital, thermal and magnetic electrons
 ![wave_earth](https://user-images.githubusercontent.com/94605936/154583109-ac27adf5-72b8-4fcd-8a01-0ae935d27da5.png)
 
-## Categorsing planets with electron numbers
+## Categorising planets with electron numbers
 ![categorise_planets](https://user-images.githubusercontent.com/94605936/154582540-4b8c6191-1692-474b-b7b4-d87177317575.png)
 
 ## Surface gravity equation due to electron numbers
