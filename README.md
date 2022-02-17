@@ -3,7 +3,7 @@
 Note from the Author:
 
 If this code is used please include this copyright statement due to the time 
-and effort (3 months of 12hr daily work). I believe this work should be 
+and effort: 3 months of daily work. I believe this work should be 
 shared and not kept away. 
 
 MIT License
