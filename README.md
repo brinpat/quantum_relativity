@@ -65,6 +65,7 @@ Outputs
 ## Quantum Relativity
 
 ## Orbital, thermal and magnetic electrons
+![wave_earth](https://user-images.githubusercontent.com/94605936/154583109-ac27adf5-72b8-4fcd-8a01-0ae935d27da5.png)
 
 ## Categorsing planets with electron numbers
 ![categorise_planets](https://user-images.githubusercontent.com/94605936/154582540-4b8c6191-1692-474b-b7b4-d87177317575.png)
@@ -75,7 +76,6 @@ Outputs
 
 ## Wave Mathematics
 ![cosine](https://user-images.githubusercontent.com/94605936/154582651-4372314f-49d7-46ac-af72-3d6fc3d5ca4d.png)
-![wave_earth](https://user-images.githubusercontent.com/94605936/154583109-ac27adf5-72b8-4fcd-8a01-0ae935d27da5.png)
 ![wave_models](https://user-images.githubusercontent.com/94605936/154583127-32eda54e-b945-497a-bf17-fe0895ed4249.png)
 
 ## Ring Mathematics
