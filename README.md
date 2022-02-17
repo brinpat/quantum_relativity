@@ -53,4 +53,4 @@ This code contains the following topics:
 - Coil of wire equation
 
 Crystallised version is a shorter piece from the full edtion. The run time is 
-about 5mins.
+about 5mins. This code was constructed in Google Colab.
