@@ -2,8 +2,7 @@
 
 Note from the Author:
 
-If this code is used please include the following copyright statement. I believe this work should be 
-shared and not kept away. 
+If this code is used please include the following copyright statement.
 
 MIT License
 
